@@ -1,0 +1,6 @@
+2001, Cashier, Groucho, 0, 0, 0.00, 10
+2002, Stocker, Chico, 0, 0, 0.00, 20
+2003, Worker, Harpo, 150, 450, 525.15
+2004, Stocker, Gummo, 0, 0, 0.00, 10
+2005, Cashier, Zeppo, 0, 0, 0.00, 20
+2006, Worker, Sam, 150, 450, 525.15
